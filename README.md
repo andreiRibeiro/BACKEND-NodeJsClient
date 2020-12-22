@@ -1,4 +1,4 @@
-# BACKEND-NodeJsClient
+# FULLSTACK-NodeJsClient
 Microserviço responsável por disponibilizar página na web e responder às suas solicitações.
 
 Este projeto tem como objetivo exercitar a manipulação de objetos do DOM via javascript no frontend, e o processamento das rotas de requisições executas por estes  objetos com NodeJs no backend.
