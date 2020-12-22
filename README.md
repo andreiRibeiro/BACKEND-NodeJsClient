@@ -9,14 +9,18 @@ No backend utilizo o express-generator para criar a estrututra do servidor web e
 
 Este projeto esta integrado com o projeto XXX que eh o web-service responsável por processar as regras de negócio em conjunto com o banco de dados solicitadas por este web-service.
 
-#### 1) O sistema disponibiliza um formulário para cadastro de novos usuários, com validação de campos obrigatórios.
+#### 1) Arquitetura de funcionamento.
+
+![](public/dist/img/arquitetura.png)
+
+#### 2) O sistema disponibiliza um formulário para cadastro de novos usuários, com validação de campos obrigatórios.
 
 ![](public/dist/img/cadastro.png)
 
-#### 2) Eh possível editar/excluir um usuário.
+#### 3) Eh possível editar/excluir um usuário.
 
 ![](public/dist/img/edicao.png)
 
-#### 3) O sistema disponibiliza a listagem dos usuarios com seus respectivos perfis.
+#### 4) O sistema disponibiliza a listagem dos usuarios com seus respectivos perfis.
 
 ![](public/dist/img/listagem.png)
