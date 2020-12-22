@@ -11,12 +11,12 @@ Este projeto esta integrado com o projeto XXX que eh o web-service responsável 
 
 #### 1) O sistema disponibiliza um formulário para cadastro de novos usuários, com validação de campos obrigatórios.
 
-![](/public/dist/img/cadastro.png
+![](public/dist/img/cadastro.png)
 
 #### 2) Eh possível editar/excluir um usuário.
 
-![](/public/dist/img/edicao.png
+![](public/dist/img/edicao.png)
 
 #### 3) O sistema disponibiliza a listagem dos usuarios com seus respectivos perfis.
 
-![](/public/dist/img/listagem.png
+![](public/dist/img/listagem.png)
