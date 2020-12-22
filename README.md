@@ -7,7 +7,7 @@ Para o frontend foi ultilizado um template do https://adminlte.io/ e implementad
 
 No backend utilizo o express-generator para criar a estrututra do servidor web e mapear as rotas de requisição.
 
-Este projeto esta integrado com o projeto XXX que eh o web-service responsável por processar as regras de negócio em conjunto com o banco de dados solicitadas por este web-service.
+Este projeto esta integrado com o projeto https://github.com/andreiRibeiro/BACKEND-NodeJsClient que eh o web-service responsável por processar as regras de negócio em conjunto com o banco de dados solicitadas por este web-service.
 
 #### 1) Arquitetura de funcionamento.
 
