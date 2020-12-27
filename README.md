@@ -1,5 +1,5 @@
 # FULLSTACK-NodeJsClient
-Serviço responsável por disponibilizar página SPA na web e manipular objetos DOM.
+Serviço responsável por disponibilizar uma SPA na web e manipular objetos DOM.
 
 Este projeto tem como objetivo exercitar a manipulação de objetos do DOM via javascript no frontend, e o processamento das rotas de requisições executas por estes  objetos com NodeJs no backend.
 
